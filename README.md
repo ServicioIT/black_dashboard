@@ -1,5 +1,4 @@
-# black_dashboard
-## Tema para Django en Bootstrap
+# Tema para Django en Bootstrap
 
 Panel Django de código abierto proporcionado por AppSeed sobre Black Dashboard, un diseño Bootstrap de código abierto de Creative-Tim. 
 El producto está diseñado para ofrecer la mejor experiencia de usuario posible con páginas ricas en funciones altamente personalizables.
